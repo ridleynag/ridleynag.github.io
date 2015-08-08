@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a C/C++/C# developer. I really love to program and I will share this joy on this blog.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a lovely father and a great husband.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ridleynag at gmail dot com](mailto:ridleynag@gmail.com)
