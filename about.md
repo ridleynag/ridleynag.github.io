@@ -9,7 +9,7 @@ I'm a passionate C/C++/C# developer. I really love to program in any language an
 ### More Information
 
 I am a lovely father and a great husband.
-Besides programming I also like MLB(SF), NFL(GreenBay), Golf, Curling, Cycling, Football - La Liga(Spain) and Barclays Premier League(England).
+Besides programming I also like MLB(SF), NFL(GreenBay), Golf, Curling, Cycling and Football - La Liga(Spain) and Barclays Premier League(England).
 
 ### Contact me
 
